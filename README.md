@@ -50,3 +50,5 @@ DOTENV file
 - create new repo on github
 - git remote set-url origin http://github.com/YOU/YOUR_REPO
 - push new changes to new repo
+
+added new repo for initial push.
